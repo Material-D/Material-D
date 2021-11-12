@@ -1,0 +1,27 @@
+
+日本語
+「広告IDの利用」
+・広告を表示する際に、端末固有のIDが利用されています。
+　アプリから送信されるデータという点で、利用することをここに記しています。
+　この情報から個人が特定されることはありません。
+
+「ネットワークへのアクセス」
+・アプリ内の広告表示にのみ使用されています。
+
+
+「ストレージの読み書き」
+・画像や音声の登録に使用します。
+
+English
+
+"Use of Advertisement id"
+・To use google adsense,the app uses a unipue id.
+   It only use to display advertisement.  
+
+   There is NO personal information from this.
+
+"Network Access"
+· It is only used for displaying advertisement in the application.
+
+"Read Write Strage"
+・It used for registering pictuers and sounds.
